@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [package]
-flask = :"*"
+flask = "*"
 
-[dev=packages]
+[dev-packages]
 
 [requires]
 pytohn_version = "3.6"
