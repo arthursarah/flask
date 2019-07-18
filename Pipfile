@@ -6,7 +6,7 @@ name = "pypi"
 [package]
 flask = "*"
 
-[dev=packages]
+[dev-packages]
 
 [requires]
 pytohn_version = "3.6"
