@@ -9,4 +9,4 @@ flask = "*"
 [dev-packages]
 
 [requires]
-pytohn_version = "3.6"
+pytohn_version = "3.7"
