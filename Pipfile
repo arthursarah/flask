@@ -3,10 +3,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[package]
+[packages]
 flask = "*"
 
 [dev-packages]
 
 [requires]
-pytohn_version = "3.6"
+python_version = "3.6"
